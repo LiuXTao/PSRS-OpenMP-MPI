@@ -1,0 +1,9 @@
+﻿  psrs_mpi_omp.cpp
+psrs_mpi_omp.cpp(185): warning C4101: “k”: 未引用的局部变量
+  正在生成代码
+  4 of 524 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  bingxing3.vcxproj -> D:\vsCase\bingxing3\x64\Release\bingxing3.exe
+  bingxing3.vcxproj -> D:\vsCase\bingxing3\x64\Release\bingxing3.pdb (Full PDB)
